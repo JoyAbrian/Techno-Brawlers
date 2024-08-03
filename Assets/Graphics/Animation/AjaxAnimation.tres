@@ -1,11 +1,11 @@
 [gd_resource type="SpriteFrames" load_steps=41 format=3 uid="uid://md7q3xrpbyxo"]
 
-[ext_resource type="Texture2D" uid="uid://bar70xpwh8s1u" path="res://Assets/Graphics/Sprites/Ajax/Punk_attack1.png" id="1_pw64v"]
-[ext_resource type="Texture2D" uid="uid://c4r8kkg3pal66" path="res://Assets/Graphics/Sprites/Ajax/Punk_attack2.png" id="2_e7okp"]
-[ext_resource type="Texture2D" uid="uid://b8s68m1l4en2" path="res://Assets/Graphics/Sprites/Ajax/Punk_attack3.png" id="3_64krs"]
-[ext_resource type="Texture2D" uid="uid://dc7ng71snuumg" path="res://Assets/Graphics/Sprites/Ajax/Punk_hurt.png" id="4_8soet"]
-[ext_resource type="Texture2D" uid="uid://cf2hiym0nrkwq" path="res://Assets/Graphics/Sprites/Ajax/Punk_idle.png" id="5_twf5t"]
-[ext_resource type="Texture2D" uid="uid://dwx7anqdjbi1" path="res://Assets/Graphics/Sprites/Ajax/Punk_run.png" id="6_48bie"]
+[ext_resource type="Texture2D" uid="uid://bar70xpwh8s1u" path="res://Assets/Graphics/Sprites/Characters/Ajax/Punk_attack1.png" id="1_pw64v"]
+[ext_resource type="Texture2D" uid="uid://c4r8kkg3pal66" path="res://Assets/Graphics/Sprites/Characters/Ajax/Punk_attack2.png" id="2_e7okp"]
+[ext_resource type="Texture2D" uid="uid://b8s68m1l4en2" path="res://Assets/Graphics/Sprites/Characters/Ajax/Punk_attack3.png" id="3_64krs"]
+[ext_resource type="Texture2D" uid="uid://dc7ng71snuumg" path="res://Assets/Graphics/Sprites/Characters/Ajax/Punk_hurt.png" id="4_8soet"]
+[ext_resource type="Texture2D" uid="uid://cf2hiym0nrkwq" path="res://Assets/Graphics/Sprites/Characters/Ajax/Punk_idle.png" id="5_twf5t"]
+[ext_resource type="Texture2D" uid="uid://dwx7anqdjbi1" path="res://Assets/Graphics/Sprites/Characters/Ajax/Punk_run.png" id="6_48bie"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_327ej"]
 atlas = ExtResource("1_pw64v")

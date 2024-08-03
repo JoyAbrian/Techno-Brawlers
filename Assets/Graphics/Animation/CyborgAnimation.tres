@@ -1,11 +1,11 @@
 [gd_resource type="SpriteFrames" load_steps=41 format=3 uid="uid://n22p53wc1av0"]
 
-[ext_resource type="Texture2D" uid="uid://dy7ep7fnctnwl" path="res://Assets/Graphics/Sprites/Cyborg/Cyborg_attack1.png" id="1_2ghoo"]
-[ext_resource type="Texture2D" uid="uid://bufjp3awvfl8n" path="res://Assets/Graphics/Sprites/Cyborg/Cyborg_attack2.png" id="2_27mjs"]
-[ext_resource type="Texture2D" uid="uid://b18lw63xpxmwj" path="res://Assets/Graphics/Sprites/Cyborg/Cyborg_attack3.png" id="3_6d6k0"]
-[ext_resource type="Texture2D" uid="uid://bpad0k8sefeap" path="res://Assets/Graphics/Sprites/Cyborg/Cyborg_hurt.png" id="4_ho2xn"]
-[ext_resource type="Texture2D" uid="uid://dxfylcy6f8iur" path="res://Assets/Graphics/Sprites/Cyborg/Cyborg_idle.png" id="5_frnfo"]
-[ext_resource type="Texture2D" uid="uid://bpd4adv0pg83p" path="res://Assets/Graphics/Sprites/Cyborg/Cyborg_run.png" id="6_jd304"]
+[ext_resource type="Texture2D" uid="uid://dy7ep7fnctnwl" path="res://Assets/Graphics/Sprites/Characters/Cyborg/Cyborg_attack1.png" id="1_2ghoo"]
+[ext_resource type="Texture2D" uid="uid://bufjp3awvfl8n" path="res://Assets/Graphics/Sprites/Characters/Cyborg/Cyborg_attack2.png" id="2_27mjs"]
+[ext_resource type="Texture2D" uid="uid://b18lw63xpxmwj" path="res://Assets/Graphics/Sprites/Characters/Cyborg/Cyborg_attack3.png" id="3_6d6k0"]
+[ext_resource type="Texture2D" uid="uid://bpad0k8sefeap" path="res://Assets/Graphics/Sprites/Characters/Cyborg/Cyborg_hurt.png" id="4_ho2xn"]
+[ext_resource type="Texture2D" uid="uid://dxfylcy6f8iur" path="res://Assets/Graphics/Sprites/Characters/Cyborg/Cyborg_idle.png" id="5_frnfo"]
+[ext_resource type="Texture2D" uid="uid://bpd4adv0pg83p" path="res://Assets/Graphics/Sprites/Characters/Cyborg/Cyborg_run.png" id="6_jd304"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_kqtlm"]
 atlas = ExtResource("1_2ghoo")

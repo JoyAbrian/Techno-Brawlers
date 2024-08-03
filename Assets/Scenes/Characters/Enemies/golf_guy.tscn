@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhwu10a2f7wxp"]
+
+[ext_resource type="SpriteFrames" uid="uid://db8ubdrwjoyof" path="res://Assets/Graphics/Animation/GolfGuyAnimation.tres" id="1_af6ln"]
+
+[node name="Golf Guy" type="AnimatedSprite2D"]
+sprite_frames = ExtResource("1_af6ln")
+animation = &"Idle"
+frame_progress = 0.121835

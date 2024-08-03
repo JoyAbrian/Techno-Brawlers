@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://d30q5phsxjfm"]
+
+[ext_resource type="SpriteFrames" uid="uid://clxm2gskrxyp4" path="res://Assets/Graphics/Animation/StrikerAnimation.tres" id="1_cp5mw"]
+
+[node name="Striker" type="AnimatedSprite2D"]
+sprite_frames = ExtResource("1_cp5mw")
+animation = &"Idle"
+frame_progress = 0.913141

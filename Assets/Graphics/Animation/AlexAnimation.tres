@@ -1,11 +1,11 @@
 [gd_resource type="SpriteFrames" load_steps=41 format=3 uid="uid://idfaorlefm5u"]
 
-[ext_resource type="Texture2D" uid="uid://d0uvocs50f2pj" path="res://Assets/Graphics/Sprites/Alex/Biker_attack1.png" id="1_0mpkg"]
-[ext_resource type="Texture2D" uid="uid://heie1tiv3uad" path="res://Assets/Graphics/Sprites/Alex/Biker_attack2.png" id="2_oymqu"]
-[ext_resource type="Texture2D" uid="uid://dp34jiw830wtj" path="res://Assets/Graphics/Sprites/Alex/Biker_attack3.png" id="3_6fjr3"]
-[ext_resource type="Texture2D" uid="uid://c4kpml04f270q" path="res://Assets/Graphics/Sprites/Alex/Biker_hurt.png" id="4_c20t8"]
-[ext_resource type="Texture2D" uid="uid://bttxs0blhkgee" path="res://Assets/Graphics/Sprites/Alex/Biker_idle.png" id="5_rhftn"]
-[ext_resource type="Texture2D" uid="uid://bppn0eo722x2t" path="res://Assets/Graphics/Sprites/Alex/Biker_run.png" id="6_olwv0"]
+[ext_resource type="Texture2D" uid="uid://d0uvocs50f2pj" path="res://Assets/Graphics/Sprites/Characters/Alex/Biker_attack1.png" id="1_0mpkg"]
+[ext_resource type="Texture2D" uid="uid://heie1tiv3uad" path="res://Assets/Graphics/Sprites/Characters/Alex/Biker_attack2.png" id="2_oymqu"]
+[ext_resource type="Texture2D" uid="uid://dp34jiw830wtj" path="res://Assets/Graphics/Sprites/Characters/Alex/Biker_attack3.png" id="3_6fjr3"]
+[ext_resource type="Texture2D" uid="uid://c4kpml04f270q" path="res://Assets/Graphics/Sprites/Characters/Alex/Biker_hurt.png" id="4_c20t8"]
+[ext_resource type="Texture2D" uid="uid://bttxs0blhkgee" path="res://Assets/Graphics/Sprites/Characters/Alex/Biker_idle.png" id="5_rhftn"]
+[ext_resource type="Texture2D" uid="uid://bppn0eo722x2t" path="res://Assets/Graphics/Sprites/Characters/Alex/Biker_run.png" id="6_olwv0"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_jx3jr"]
 atlas = ExtResource("1_0mpkg")

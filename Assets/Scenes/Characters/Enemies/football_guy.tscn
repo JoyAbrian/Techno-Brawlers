@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dysv7bplofp7o"]
+
+[ext_resource type="SpriteFrames" uid="uid://bm3u6060yfwr" path="res://Assets/Graphics/Animation/FootballGuyAnimation.tres" id="1_bvu5f"]
+
+[node name="Football Guy" type="AnimatedSprite2D"]
+sprite_frames = ExtResource("1_bvu5f")
+animation = &"Idle"
+frame_progress = 0.965766
