@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6c44toop5mnf"
-path="res://.godot/imported/10.png-8ba0f166b96630787d8ad96876167472.ctex"
+uid="uid://dnu17q3tm44t5"
+path="res://.godot/imported/BuildingTile.png-317699213f6d0baa6ba2b022d17c928c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Graphics/Visuals/CityBackground/10.png"
-dest_files=["res://.godot/imported/10.png-8ba0f166b96630787d8ad96876167472.ctex"]
+source_file="res://Assets/Graphics/Sprites/BuildingTile.png"
+dest_files=["res://.godot/imported/BuildingTile.png-317699213f6d0baa6ba2b022d17c928c.ctex"]
 
 [params]
 

@@ -1,10 +1,10 @@
 [gd_scene load_steps=6 format=3 uid="uid://b3q7jq55mc5yr"]
 
-[ext_resource type="Texture2D" uid="uid://c5uj35fqb7f57" path="res://Assets/Graphics/Visuals/CityBackground/1.png" id="1_xggbf"]
-[ext_resource type="Texture2D" uid="uid://du55iwux5b5dq" path="res://Assets/Graphics/Visuals/CityBackground/2.png" id="2_pidjo"]
-[ext_resource type="Texture2D" uid="uid://bhvapuwc43dpk" path="res://Assets/Graphics/Visuals/CityBackground/3.png" id="3_e8br6"]
-[ext_resource type="Texture2D" uid="uid://chdq3rvahq7s7" path="res://Assets/Graphics/Visuals/CityBackground/4.png" id="4_xssqn"]
-[ext_resource type="Texture2D" uid="uid://cw76bem4cr1vp" path="res://Assets/Graphics/Visuals/CityBackground/5.png" id="5_st6oj"]
+[ext_resource type="Texture2D" uid="uid://c5uj35fqb7f57" path="res://Assets/Graphics/UI/CityBackground/1.png" id="1_xggbf"]
+[ext_resource type="Texture2D" uid="uid://du55iwux5b5dq" path="res://Assets/Graphics/UI/CityBackground/2.png" id="2_pidjo"]
+[ext_resource type="Texture2D" uid="uid://bhvapuwc43dpk" path="res://Assets/Graphics/UI/CityBackground/3.png" id="3_e8br6"]
+[ext_resource type="Texture2D" uid="uid://chdq3rvahq7s7" path="res://Assets/Graphics/UI/CityBackground/4.png" id="4_xssqn"]
+[ext_resource type="Texture2D" uid="uid://cw76bem4cr1vp" path="res://Assets/Graphics/UI/CityBackground/5.png" id="5_st6oj"]
 
 [node name="Backgrounds" type="Node2D"]
 
