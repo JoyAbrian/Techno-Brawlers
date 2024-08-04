@@ -59,3 +59,27 @@ text = "HP:"
 [node name="Bat Guy" parent="Enemies" instance=ExtResource("4_yidp5")]
 position = Vector2(747, 520)
 scale = Vector2(2, 2)
+
+[node name="Bat Guy2" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(864, 555)
+scale = Vector2(2, 2)
+
+[node name="Bat Guy3" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(438, 566)
+scale = Vector2(2, 2)
+
+[node name="Bat Guy4" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(254, 548)
+scale = Vector2(2, 2)
+
+[node name="Bat Guy5" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(69, 519)
+scale = Vector2(2, 2)
+
+[node name="Bat Guy6" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(163, 521)
+scale = Vector2(2, 2)
+
+[node name="Bat Guy7" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(348, 509)
+scale = Vector2(2, 2)
