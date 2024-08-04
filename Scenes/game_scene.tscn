@@ -1,8 +1,9 @@
-[gd_scene load_steps=5 format=3 uid="uid://i7hhqi2b10rt"]
+[gd_scene load_steps=6 format=3 uid="uid://i7hhqi2b10rt"]
 
 [ext_resource type="PackedScene" uid="uid://b3q7jq55mc5yr" path="res://Scenes/UI/backgrounds.tscn" id="1_m8dvw"]
 [ext_resource type="PackedScene" uid="uid://bomlql2cj3sav" path="res://Scenes/UI/street.tscn" id="2_h0img"]
 [ext_resource type="PackedScene" uid="uid://dvpksmngxtavn" path="res://Scenes/Characters/player.tscn" id="3_nfvxt"]
+[ext_resource type="PackedScene" uid="uid://c7jldqust8sc7" path="res://Scenes/Characters/bat_guy_enemy.tscn" id="4_yidp5"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_8iyr0"]
 size = Vector2(585.5, 204)
@@ -25,11 +26,11 @@ position = Vector2(290.5, 426)
 shape = SubResource("RectangleShape2D_8iyr0")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="Backgrounds/RedZone"]
-position = Vector2(855, 277)
+position = Vector2(848.5, 277)
 shape = SubResource("RectangleShape2D_8iyr0")
 
 [node name="CollisionShape2D4" type="CollisionShape2D" parent="Backgrounds/RedZone"]
-position = Vector2(-269, 281)
+position = Vector2(-269, 280.5)
 shape = SubResource("RectangleShape2D_8iyr0")
 
 [node name="Street" parent="." instance=ExtResource("2_h0img")]
@@ -38,3 +39,23 @@ layer_0/tile_data = PackedInt32Array(327670, 1179648, 3, 327671, 1179648, 3, 327
 
 [node name="player" parent="." instance=ExtResource("3_nfvxt")]
 position = Vector2(301.5, 253.5)
+
+[node name="Score" type="RichTextLabel" parent="."]
+offset_left = 4.0
+offset_top = 3.5
+offset_right = 308.0
+offset_bottom = 43.5
+text = "Score:"
+
+[node name="HP" type="RichTextLabel" parent="."]
+offset_left = 3.5
+offset_top = 27.5
+offset_right = 307.5
+offset_bottom = 67.5
+text = "HP:"
+
+[node name="Enemies" type="Node" parent="."]
+
+[node name="Bat Guy" parent="Enemies" instance=ExtResource("4_yidp5")]
+position = Vector2(747, 520)
+scale = Vector2(2, 2)

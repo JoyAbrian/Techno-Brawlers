@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqh2ppq1m8oui"]
+
+[ext_resource type="PackedScene" uid="uid://b3q7jq55mc5yr" path="res://Scenes/UI/backgrounds.tscn" id="1_ijrj5"]
+
+[node name="Main Menu" type="Node2D"]
+
+[node name="Backgrounds" parent="." instance=ExtResource("1_ijrj5")]
+position = Vector2(573, 327)
+scale = Vector2(2, 2)

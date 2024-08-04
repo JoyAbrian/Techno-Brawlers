@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://c7jldqust8sc7"]
+
+[ext_resource type="Script" path="res://Scripts/enemy.gd" id="1_5i5eh"]
+[ext_resource type="SpriteFrames" uid="uid://bbuy8211m7uns" path="res://Assets/Graphics/Animation/BatGuyAnimation.tres" id="1_h87wa"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3sdwf"]
+size = Vector2(6.37648, 23.6945)
+
+[node name="Bat Guy" type="CharacterBody2D"]
+script = ExtResource("1_5i5eh")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-12, 8)
+scale = Vector2(2.19557, 1.35052)
+shape = SubResource("RectangleShape2D_3sdwf")
+
+[node name="Bat Guy" type="AnimatedSprite2D" parent="."]
+scale = Vector2(0.898732, 1)
+sprite_frames = ExtResource("1_h87wa")
+animation = &"Attack"

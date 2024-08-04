@@ -4,14 +4,13 @@
 [ext_resource type="PackedScene" uid="uid://ccn62a6rognri" path="res://Scenes/Characters/Characters/ajax.tscn" id="2_8k857"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7n2rw"]
-size = Vector2(20, 35)
+size = Vector2(8, 35)
 
 [node name="player" type="CharacterBody2D"]
 script = ExtResource("1_kr6al")
 
-[node name="Ajax" parent="." instance=ExtResource("2_8k857")]
-animation = &"Attack 1"
-
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-10, 6.5)
+position = Vector2(-16, 6.5)
 shape = SubResource("RectangleShape2D_7n2rw")
+
+[node name="Ajax" parent="." instance=ExtResource("2_8k857")]
