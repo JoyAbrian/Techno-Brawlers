@@ -1,6 +1,6 @@
 # Techno-Brawlers
- IGI Game Jam Repository
-
+ IGI Game Jam Repository (BELUM SELESAI COOOOOOO)
+ 
 Credits :
 - [Free 3 Cyberpunk Sprites Pixel Art](https://free-game-assets.itch.io/free-3-cyberpunk-sprites-pixel-art) by [Free Games Assets](https://free-game-assets.itch.io/)
 - [Free City Enemies Pixel Art](https://free-game-assets.itch.io/free-city-enemies-pixel-art-sprite-sheets) by [Free Games Assets](https://free-game-assets.itch.io/)
